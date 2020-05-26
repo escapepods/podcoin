@@ -1,2 +1,2 @@
 # podcoin
-Cryptocurrency Proof of Concept
+Cryptocurrency (Blockchain) Proof of Concept
